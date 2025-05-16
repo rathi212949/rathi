@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Hello, I'm [rathi durga]</h1>
+        <p>Frontend Developer | Designer | Student</p>
+    </header>
+
+    <section class="about">
+        <h2>About Me</h2>
+        <p>I love building websites and learning new technologies.</p>
+    </section>
+
+    <section class="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li><strong> project1</strong> – A weather app using HTML/CSSJS</li>
+            <li><strong>Project 2</strong> – Personal blog with Markdown</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>© 2025 [rathi]. All rights reserved.</p>
+    </footer>
+</body>
+</html>
